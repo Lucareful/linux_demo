@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="root@121.199.72.50:22" deleteMissingItems="true" traceLevel="BRIEF" autoUploadExternalChanges="true" showNewOnTargetInSync="false">
+    <serverData>
+      <paths name="Luenci的云">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@121.199.72.50:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/python_script" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>
